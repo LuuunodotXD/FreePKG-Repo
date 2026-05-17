@@ -1,5 +1,6 @@
 # name|version|build_date|desc|deps
-hello|1.0|2025/05/03|Hello test program|
-htop|3.5.1|2025/05/16|Interactive process viewer|ncurses-libs
-ncurses-libs|6.5_1|Library for TUIs|
-greet|1.0|2025/05/03|Dependency test|hello
+hello|1.0|2025/12/31|Hello test program|
+htop|3.5.1|2025/12/31|Interactive process viewer|ncurses-libs
+ncurses-libs|6.5_1|2025/12/31|Library for TUIs|
+greet|1.0|2025/12/31|Dependency test|Library
+screenfetch|3.9.1|2026/05/31|Systemem information tool|bash
