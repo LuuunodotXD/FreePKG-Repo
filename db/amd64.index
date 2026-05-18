@@ -3,5 +3,5 @@ hello|1.0|2025/12/31|Hello test program|
 htop|3.5.1|2025/12/31|Interactive process viewer|ncurses-libs
 lsb-release|1.0|2026/05/17|LSB release for FreeRoot|
 ncurses-libs|6.5_1|2025/12/31|Library for TUIs|
-greet|1.0|2025/12/31|Dependency test|
+greet|1.0|2025/12/31|Dependency test|hello
 screenfetch|3.9.1|2026/05/17|System information tool|lsb-release
