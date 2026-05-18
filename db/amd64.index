@@ -5,3 +5,6 @@ lsb-release|1.0|2026/05/17|LSB release for FreeRoot|
 ncurses-libs|6.5_1|2025/12/31|Library for TUIs|
 greet|1.0|2025/12/31|Dependency test|hello
 screenfetch|3.9.1|2026/05/17|System information tool|lsb-release
+glibc|2.39|2026/05/19|GNU C Library|
+nano|8.7|2026/05/18|Nano text editor|ncurses-libs libmagic
+libmagic|5.12_1|2026/05/18|Library|
