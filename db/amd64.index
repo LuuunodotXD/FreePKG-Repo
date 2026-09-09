@@ -11,3 +11,8 @@ vim|9.1.0000|2025/12/31|UNIX text editor|ncurses-libs
 libmagic|5.12_1|2026/05/18|Library|
 binutils|2.42|2026/05/17|GNU binary utilities|zlib
 zlib|1.3.2|2026/05/17|Compression library|
+gmp|6.3.0|2026/05/17|GNU Multiple Precision library|
+libtommath|1.3.0|2026/05/17|Math library|
+libtomcrypt|1.18.2|2026/05/17|Cryptographic library|gmp libtommath
+libxcrypt|4.4.38|2026/05/17|Password hashing library|
+dropbear|2025.89|2026/05/17|Lightweight SSH server and client|libxcrypt libtomcrypt libtommath zlib
