@@ -13,6 +13,6 @@ binutils|2.42|2026/05/17|GNU binary utilities|zlib
 zlib|1.3.2|2026/05/17|Compression library|
 gmp|6.3.0|2026/05/17|GNU Multiple Precision library|
 libtommath|1.3.0|2026/05/17|Math library|
-libtomcrypt|1.18.2|2026/05/17|Cryptographic library|gmp libtommath
+libtomcrypt|1.18.2|2026/05/18|Cryptographic library|gmp libtommath
 libxcrypt|4.4.38|2026/05/17|Password hashing library|
 dropbear|2025.89|2026/05/17|Lightweight SSH server and client|libxcrypt libtomcrypt libtommath zlib
